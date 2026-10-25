@@ -31,15 +31,15 @@
 <rect x="564" y="192" width="160" height="80" rx="8" fill="none" stroke="#8c959f" stroke-width="1.25"/>
 <text x="580" y="216" font-size="13" font-weight="600" fill="#1f2328">8 Drift</text>
 <text x="580" y="232" font-size="11.5" font-weight="400" fill="#57606a">Gjennomfør planene:</text>
-<text x="580" y="248" font-size="11.5" font-weight="400" fill="#57606a">AI-systemets livsløp</text>
+<text x="580" y="248" font-size="11.5" font-weight="400" fill="#57606a">AI-systemets levetid</text>
 <rect x="384" y="192" width="160" height="80" rx="8" fill="none" stroke="#8c959f" stroke-width="1.25"/>
 <text x="400" y="216" font-size="13" font-weight="600" fill="#1f2328">9 Evaluering</text>
-<text x="400" y="232" font-size="11.5" font-weight="400" fill="#57606a">Overvåk og revider,</text>
-<text x="400" y="248" font-size="11.5" font-weight="400" fill="#57606a">ledelsens gjennomgang</text>
+<text x="400" y="232" font-size="11.5" font-weight="400" fill="#57606a">Mål og revider,</text>
+<text x="400" y="248" font-size="11.5" font-weight="400" fill="#57606a">ledelsen går gjennom</text>
 <rect x="204" y="192" width="160" height="80" rx="8" fill="none" stroke="#8c959f" stroke-width="1.25"/>
 <text x="220" y="216" font-size="13" font-weight="600" fill="#1f2328">10 Forbedring</text>
 <text x="220" y="232" font-size="11.5" font-weight="400" fill="#57606a">Rett opp avvik og</text>
-<text x="220" y="248" font-size="11.5" font-weight="400" fill="#57606a">forbedre løpende</text>
+<text x="220" y="248" font-size="11.5" font-weight="400" fill="#57606a">forbedre fortløpende</text>
 <text x="112" y="184" font-size="11.5" font-weight="400" fill="#57606a">ny runde</text>
-<text x="24" y="304" font-size="11.5" font-weight="400" fill="#57606a">Klausul 6 er uthevet: her gjøres vurderingene som styrer valget av kontroller.</text>
+<text x="24" y="304" font-size="11.5" font-weight="400" fill="#57606a">Kapittel 6 er uthevet: her gjøres vurderingene som styrer valget av tiltak.</text>
 </svg>

@@ -1,6 +1,6 @@
 # ISO/IEC 42001 forklart
 
-En norsk studieguide om ISO/IEC 42001, standarden for styringssystemer for kunstig intelligens. Guiden viser hvordan standarden er bygget opp, hva Annex A inneholder og hvordan en organisasjon kommer fra risikovurdering til sertifikat.
+En norsk studieguide om ISO/IEC 42001, standarden for hvordan en organisasjon styrer bruk av kunstig intelligens (AI). Guiden viser hvordan standarden er bygget opp, hva Annex A inneholder og hvordan en organisasjon kommer fra risikovurdering til sertifikat. Fagordene er forklart i en ordliste først i guiden.
 
 ![Standardens oppbygging](assets/oppbygging.svg)
 
@@ -8,7 +8,7 @@ En norsk studieguide om ISO/IEC 42001, standarden for styringssystemer for kunst
 
 | Del | Hva du finner |
 |---|---|
-| [Hele guiden](docs/iso-42001-forklart.md) | Oversikt, klausul 4 til 10, de 38 kontrollene i Annex A, veien til sertifikat, sammenheng med ISO 27001, NIST AI RMF og EU AI Act, et eksempel og vanlige misforståelser |
+| [Hele guiden](docs/iso-42001-forklart.md) | Ordliste, oversikt, kapittel 4 til 10, de 38 tiltakene i Annex A, veien til sertifikat, hvilke versjoner som gjelder nå, sammenheng med ISO 27001, NIST AI RMF og EU AI Act, et eksempel og vanlige misforståelser |
 | [assets](assets) | De tre tegningene som brukes i guiden |
 
 ## Hvem den er for
@@ -19,8 +19,8 @@ Studenter og nybegynnere innen GRC og informasjonssikkerhet som vil forstå hvor
 
 - Ikke en offisiell tolkning. Guiden bygger på åpne kilder og ikke på selve standarden, som er betalt.
 - Ikke juridisk rådgivning.
-- Tall og kontrollnummer bør sjekkes mot den offisielle teksten på iso.org.
-- Regelverket endrer seg. Guiden er sist oppdatert 23. oktober 2026.
+- Tall og tiltaksnumre bør sjekkes mot den offisielle teksten på iso.org.
+- Standarder og regler endrer seg. Guiden er sist oppdatert 25. oktober 2026.
 
 ## Kilder
 
